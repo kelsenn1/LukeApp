@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LukeApp3</string>
+    <string name="app_name" translatable="false">LukeApp</string>
     <string name="title_activity_drawer">DrawerActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -11,4 +11,10 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="tvResult">Test</string>
+    <string name="etName">Name</string>
+    <string name="btSend">Send</string>
+    <string name="send2">send to result screen</string>
+    <string name="hello_name">Hello %1$s!</string>
+    <string name="etName_error">text your name...</string>
 </resources>

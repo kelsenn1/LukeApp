@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">configurações</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="etName">Nome</string>
+    <string name="btSend">Enviar</string>
+    <string name="send2">enviar para tela de resultado</string>
+    <string name="hello_name">Olá %1$s!</string>
+    <string name="etName_error">digite seu nome</string>
+</resources>
